@@ -1,5 +1,5 @@
 # Face-detection-fronted </br>
-<h2>Please wait for to server to start : https://face-detection-ml.herokuapp.com/ </h2> </br></br>
+<h2>Please wait for the server to start : https://face-detection-ml.herokuapp.com/ </h2> </br></br>
 check out the backend here :  </br>
 1. Clone this repo </br>
 2. Run npm install</br>
