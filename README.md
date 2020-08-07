@@ -1,6 +1,6 @@
 # Face-detection-fronted </br>
 <h2>Please wait for the server to start : https://face-detection-ml.herokuapp.com/ </h2> </br></br>
-check out the backend here :  </br>
+check out the backend here : https://github.com/taransm/face-detection-backend  </br>
 1. Clone this repo </br>
 2. Run npm install</br>
 3. Run npm start</br>
